@@ -1,5 +1,5 @@
 # ChromaKey
-<h1> Project Overview </h1>
+<h3> Project Overview </h3>
 <p1> This is a C++ program that identifies the chroma key (green screen), and further replaces it with an alternative background of choice. </p1>
 
 <p2>The images are 256x256 pixels, therfore the RGB value of each pixel is stored in a 256x256x3 array.</br>
